@@ -1,0 +1,38 @@
+p#pogrubienie_drygalski {
+	font-size:34px;
+	color:#15636F;
+	font-weight:bold;
+}
+
+
+p#pochylona{
+	font-size:39px;
+	color:#F9556C;
+	font-style:italic;
+}
+
+p#index_gorny_drygalski{
+	font-size:1.4cm;
+	color:#C99A12;
+	vertical-align:super;
+}
+
+p#index_dolny_drygalski{
+	font-size:2.3cm;
+	color:RGB(33%, 99%, 12%);
+	vertical-align:sub;
+}
+
+p#mono_drygalski{
+	color:#26E4F4;
+	font-size: 43px;
+}
+
+p#powiekszenie_drygalski{
+	color:#634C3F;
+	
+}
+
+p#pomniejszenie_drygalski{
+	color: RGB(88%, 41%, 28%);
+}
